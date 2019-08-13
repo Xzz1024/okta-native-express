@@ -1,0 +1,11 @@
+{
+    "api" : {
+        "baseURL": "https://dev-742426.okta.com/oauth2/default/v1/"
+    },
+    "okta": {
+        "client_id": "0oa12yij1w7sOaVvr357",
+        "scope": "openid profile email",
+        "redirect_uri": "http://localhost:3001/redirect-callback",
+        "post_logout_redirect_uri": "http://localhost:3001"
+    }
+}
